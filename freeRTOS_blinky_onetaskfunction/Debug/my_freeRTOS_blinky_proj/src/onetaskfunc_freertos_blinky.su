@@ -1,0 +1,3 @@
+onetaskfunc_freertos_blinky.c:49:13:prvSetupHardware	8	static
+onetaskfunc_freertos_blinky.c:61:13:vLEDTask	24	static
+onetaskfunc_freertos_blinky.c:88:5:main	40	static
