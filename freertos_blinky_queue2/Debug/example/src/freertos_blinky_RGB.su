@@ -1,0 +1,4 @@
+freertos_blinky_RGB.c:51:13:prvSetupHardware	8	static
+freertos_blinky_RGB.c:64:6:sender_task	24	static
+freertos_blinky_RGB.c:74:6:receiver_task	24	static
+freertos_blinky_RGB.c:114:5:main	24	static

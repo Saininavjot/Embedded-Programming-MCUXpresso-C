@@ -1,0 +1,5 @@
+freertos_blinky_MUTEX_RG.c:54:13:prvSetupHardware	8	static
+freertos_blinky_MUTEX_RG.c:66:13:vLEDTask1	16	static
+freertos_blinky_MUTEX_RG.c:78:13:vLEDTask2	16	static
+freertos_blinky_MUTEX_RG.c:88:13:vLEDTask3	16	static
+freertos_blinky_MUTEX_RG.c:110:5:main	24	static

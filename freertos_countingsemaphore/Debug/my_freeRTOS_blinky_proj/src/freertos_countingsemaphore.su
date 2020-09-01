@@ -1,0 +1,5 @@
+freertos_countingsemaphore.c:51:13:prvSetupHardware	8	static
+freertos_countingsemaphore.c:63:13:vLEDTask1	16	static
+freertos_countingsemaphore.c:80:13:vLEDTask2	16	static
+freertos_countingsemaphore.c:95:13:vLEDTask3	16	static
+freertos_countingsemaphore.c:121:5:main	24	static
